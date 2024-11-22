@@ -198,7 +198,7 @@ class clsCiscoRouter:
         newInterfaceData = { 
              "ietf-interfaces:interface": {
              "name": "Huffman-Loopback69",
-             "description": "Added By Me (Ahmad)",
+             "description": "Added By Me (LIINNUUUX)",
              "type": "iana-if-type:softwareLoopback",
              "enabled": True,
              "ietf-ip:ipv4": {
